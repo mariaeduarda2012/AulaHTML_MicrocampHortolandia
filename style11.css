@@ -1,0 +1,49 @@
+.fundo {
+       background-color: lightblue;
+}
+
+.borda-1{
+    border: 3px solid black;
+}
+
+.borda-2{
+    border: 3px dashed red;
+}
+
+.borda-3{
+    border: 3px dotted blue;
+}
+
+.cor-texto{
+    cor: green; 
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+
+.riscado{
+   text-decoration: line-through;
+}
+
+.outra-fonte{
+    font-family:'Courier New', monospace;
+}
+.esquerda{
+    text-align: left;
+}
+
+.centro{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
+
+body {
+  background-color: #885913; /* Use nomes, HEX ou RGB */
+}
+
+
